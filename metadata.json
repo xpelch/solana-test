@@ -1,0 +1,12 @@
+{
+    "name": "Nicolo on SOL",
+    "symbol": "NICOL",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/xpelch/solana-test/refs/heads/main/tooth-1670434_640.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Compressed Coil"
+      }
+    ]
+  }
